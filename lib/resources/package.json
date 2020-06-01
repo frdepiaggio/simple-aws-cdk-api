@@ -1,0 +1,10 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Franco Depiaggio",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  }
+}

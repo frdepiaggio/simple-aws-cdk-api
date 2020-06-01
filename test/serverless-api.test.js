@@ -1,6 +1,6 @@
 const { expect, matchTemplate, MatchStyle } = require('@aws-cdk/assert');
 const cdk = require('@aws-cdk/core');
-const ServerlessApi = require('../lib/serverless-api-stack');
+const ServerlessApi = require('../lib/test-api-fdepiaggio-stack');
 
 test('Empty Stack', () => {
     const app = new cdk.App();

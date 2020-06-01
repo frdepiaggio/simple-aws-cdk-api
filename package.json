@@ -2,7 +2,7 @@
   "name": "serverless-api",
   "version": "0.1.0",
   "bin": {
-    "serverless-api": "bin/serverless-api.js"
+    "serverless-api": "bin/test-api-fdepiaggio.js"
   },
   "scripts": {
     "build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
@@ -12,9 +12,16 @@
   "devDependencies": {
     "@aws-cdk/assert": "1.42.0",
     "aws-cdk": "1.42.0",
-    "jest": "^25.5.0"
+    "jest": "^25.5.0",
+    "uuidv4": "^6.1.0"
   },
   "dependencies": {
-    "@aws-cdk/core": "1.42.0"
+    "@aws-cdk/aws-apigateway": "^1.42.0",
+    "@aws-cdk/aws-dynamodb": "^1.42.0",
+    "@aws-cdk/aws-lambda": "^1.42.0",
+    "@aws-cdk/aws-s3": "^1.42.0",
+    "@aws-cdk/core": "1.42.0",
+    "aws-sdk": "^2.686.0",
+    "uuid": "^8.1.0"
   }
 }
