@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14a26486-cc2a-44d5-9b6a-92aa303547b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/franco.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test-api-fdepiagio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/resources/getAllFoo.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/resources/getAllFoo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test-api-fdepiaggio-stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test-api-fdepiaggio-stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/api-trigger.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/api-trigger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cXZRbCYjSUHnQWgpueQ1pKafr9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a26486-cc2a-44d5-9b6a-92aa303547b9" name="Default Changelist" comment="" />
+      <created>1590676890076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590676890076</updated>
+      <workItem from="1590676892386" duration="51000" />
+      <workItem from="1590676967116" duration="14734000" />
+      <workItem from="1591018869506" duration="23000" />
+      <workItem from="1591018894869" duration="14000" />
+      <workItem from="1591018932279" duration="38000" />
+      <workItem from="1591018988227" duration="117000" />
+      <workItem from="1591019106973" duration="4507000" />
+      <workItem from="1591026150035" duration="4624000" />
+      <workItem from="1591100978626" duration="1804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="141" width="424" height="513" key="FileChooserDialogImpl" timestamp="1591019103684">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="461" y="141" width="424" height="513" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1591019103684" />
+    <state x="187" y="31" width="992" height="731" key="SettingsEditor" timestamp="1590690603007">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="187" y="31" width="992" height="731" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1590690603007" />
+    <state x="340" y="88" width="676" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590677649538">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="340" y="88" width="676" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.24.1366.744@0.24.1366.744" timestamp="1590677649538" />
+  </component>
+</project>

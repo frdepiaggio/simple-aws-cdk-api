@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/serverless-api.iml" filepath="$PROJECT_DIR$/.idea/serverless-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test-api-fdepiaggio.iml" filepath="$PROJECT_DIR$/.idea/test-api-fdepiaggio.iml" />
     </modules>
   </component>
 </project>
